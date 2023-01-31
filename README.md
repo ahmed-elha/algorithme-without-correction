@@ -10,6 +10,9 @@
 
 ## Utilisation du projet
 
+### Télecharger les packages node
+Pour télécharger les node_modules sur votre projet il suffit de faire : npm i 
+
 ### Lancement
 Pour lancer le projet il suffit de faire : _npm start_
 
