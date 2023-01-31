@@ -1,6 +1,7 @@
 # algo-exercises
 
 ## Ajouter un exercice
+-### Faire les exercices disponible dans le lien suivants afin de décourvrir les bases du git branching (https://learngitbranching.js.org/?locale=fr_FR )
 - Créer une branche
 - Créer une merge request
 - Faire son développement
